@@ -1,0 +1,1 @@
+[22-Jun-2019 10:39:02 Europe/London] PHP Fatal error:  Call to undefined function base_url() in /home/aalabels/public_html/application/views/index.php on line 380

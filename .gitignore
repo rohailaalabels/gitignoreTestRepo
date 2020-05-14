@@ -1,0 +1,17 @@
+# Unncessary Images and cache directory included. Please consult with teamlead before updating the ignore file.
+aa_returns/
+aalabels/
+application/cache/
+application_mobile/
+be/
+ch/
+constant/
+flashadmin/
+fr/
+lu/
+new_backoffice/
+new_saleoperator/
+salespanel/
+system/
+theme/
+.idea/
